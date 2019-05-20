@@ -14,7 +14,23 @@ Alchemical free energy calculations can be used to efficiently compute binding f
 
 ### Training Material
 
+The workshop consists of a series of Jupyter notebooks. These are available on the
+<a href="https://notebook.biosimspace.org" target="_blank">workshop jupyter server</a>
+and can be downloaded from the <a href="https://github.com/ccpbiosim/biosimspace_workshop" target="_blank">GitHub repository</a>.
 
+Once you have started the server, navigate to the `free_energy_workshop` directory and you will find the
+notebooks there. These training materials will teach you more about how to use BioSimSpace for alchemical free energy calculations.
+
+### Part 1: Alchemical free energy setup
+This part will look at how to setup an alchemical free energy simulation with BioSimSpace using the notebook 
+
+[01\_Setup.ipynb](01_Setup/Exercise_01.ipynb)
+
+### Part 2: Alchemical free energy simulation analysis
+The second part focuses on how to analyse the alchemical free energy simulations, as well as some tips on best practices. This is done in two notebooks:
+
+[02\_Analysis\_ethane\_methanol.ipynb](Exercise_02.ipynb)   
+[03\_Analysis\_ethane\_methanol.ipynb](Exercise_03.ipynb)
 
 ### Contact:
 
