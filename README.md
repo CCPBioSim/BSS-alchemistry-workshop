@@ -24,7 +24,7 @@ notebooks there. These training materials will teach you more about how to use B
 ### Part 1: Alchemical free energy setup
 This part will look at how to setup an alchemical free energy simulation with BioSimSpace using the notebook 
 
-[01\_Setup.ipynb](01_Setup/Exercise_01.ipynb)
+[01\_Setup.ipynb](01_BSS_Setup/Exercise_01.ipynb)
 
 ### Part 2: Alchemical free energy simulation analysis
 The second part focuses on how to analyse the alchemical free energy simulations, as well as some tips on best practices. This is done in two notebooks:
