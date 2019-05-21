@@ -29,8 +29,8 @@ This part will look at how to setup an alchemical free energy simulation with Bi
 ### Part 2: Alchemical free energy simulation analysis
 The second part focuses on how to analyse the alchemical free energy simulations, as well as some tips on best practices. This is done in two notebooks:
 
-[02\_Analysis\_ethane\_methanol.ipynb](Exercise_02.ipynb)   
-[03\_Analysis\_ethane\_methanol.ipynb](Exercise_03.ipynb)
+[02\_Analysis\_ethane\_methanol.ipynb](02\_Analysis\_ethane\_methanol/Exercise_02.ipynb)   
+[03\_Analysis\_Lysozyme .ipynb](03_Analysis_Lysozyme/Exercise_03.ipynb)
 
 ### Contact:
 
